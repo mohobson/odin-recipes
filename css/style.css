@@ -1,0 +1,10 @@
+/* style.css */
+
+title {
+    color: orange;
+}
+
+body {
+    color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
